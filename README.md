@@ -19,7 +19,7 @@ O projeto seguiu uma base técnica sólida antes da implementação:
 * **UI/UX:** Mapeamento completo de wireframes para a Feature A (Enviar) e Feature B (Receber), cobrindo desde a página inicial até ao ecrã de sucesso.
 * **Tech Stories:** Foco em segurança com encriptação de dados de pagamento e integração de APIs bancárias.
 
-![Estrutura Técnica](./img/planeamento_tecnico.jpeg)
+![Estrutura Técnica](planeamento_tecnico.jpeg)
 
 ---
 
@@ -41,7 +41,7 @@ Dividimos o projeto em três grandes eixos, utilizando **Story Points** (Fibonac
 * Lista de transações detalhada.
 * Filtros inteligentes por tipo de transferência e pesquisa por nome.
 
-![Backlog de Features](./img/backlog_features.jpeg)
+![Backlog de Features](backlog_features.jpeg)
 
 ---
 
@@ -57,7 +57,7 @@ Utilizámos um quadro **Kanban** dinâmico para monitorizar o progresso da **Spr
 5.  **Tests / Code Review:** Garantia de qualidade.
 6.  **Done:** Funcionalidades finalizadas e validadas.
 
-![Quadro Kanban](./img/kanban_flow.jpeg)
+![Quadro Kanban](kanban_flow.jpeg)
 
 ---
 
